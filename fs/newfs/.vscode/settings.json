@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "newfs.h": "c",
+        "errno.h": "c",
+        "types.h": "c"
+    }
+}
